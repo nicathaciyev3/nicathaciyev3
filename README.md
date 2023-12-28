@@ -3,7 +3,7 @@
 
 ### :man_technologist: About Me:
 
-<p align="left">Hello, my name is Nijat Gadzhiev, and I am a front-end developer. My passion for creating unique user interfaces drives me to constantly seek innovations in the world of web technologies.
+<p align="left">Hello, my name is Nicat Haciyev, and I am a front-end developer. My passion for creating unique user interfaces drives me to constantly seek innovations in the world of web technologies.
 
 I believe that design and functionality should seamlessly come together, and it is this direction that inspires me in my work. My projects not only follow trends but actively contribute to shaping them. I strive to ensure that my interfaces not only appeal visually but also provide ease of use for every user.
 
